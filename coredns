@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/coredns/coredns:7847ada4d72bc8b479122ad9963fbe073f563f1a982f5b76dbfc872184a4f518
+FROM coredns/coredns:1.8.6:7847ada4d72bc8b479122ad9963fbe073f563f1a982f5b76dbfc872184a4f518
